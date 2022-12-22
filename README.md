@@ -1,1 +1,1 @@
-# Multi-armed Bandit for Recommendation System
+# Multi-armed Bandits for Recommendation System
