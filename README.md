@@ -10,6 +10,7 @@
 ## Usage
 ### Guidance
 * Download the anime recommendation dataset and implement `./data preprocessing.py` to filter the top 10 most reviewed anime and obtain rewards and liked percentage per anime.
+* `./algorithms.py` is where each MAB algorithm is defined.
 * To implement, run this:
 ```
 python3 mab.py
